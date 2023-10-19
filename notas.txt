@@ -1,3 +1,4 @@
 echo "*.class" > .gitignore -> ele cria um arquivo e redireciona para o gitignore
 
-https://@github.com/MilenaSayuri/POO_SobreCargaDeMetodos.git
+so e tem u
+
